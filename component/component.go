@@ -1,7 +1,7 @@
 package component
 
 import (
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // Component — retained-mode элемент UI. Render возвращает строки ширины width

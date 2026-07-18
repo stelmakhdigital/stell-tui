@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"stell/tui/component"
-	"stell/tui/diff"
-	"stell/tui/overlay"
-	"stell/tui/terminal"
+	"github.com/stelmakhdigital/stell-tui/component"
+	"github.com/stelmakhdigital/stell-tui/diff"
+	"github.com/stelmakhdigital/stell-tui/overlay"
+	"github.com/stelmakhdigital/stell-tui/terminal"
 )
 
 // InputListener получает сырой ввод до маршрутизации фокуса.

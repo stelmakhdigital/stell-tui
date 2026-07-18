@@ -1,8 +1,8 @@
 package component
 
 import (
-	"stell/tui/terminal"
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/terminal"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 	"fmt"
 	"regexp"
 	"strings"

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 func TestEditorCtrlAELineBounds(t *testing.T) {

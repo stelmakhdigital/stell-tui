@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // extractCursorMarker находит wrap.CursorMarker в строках кадра и удаляет его.

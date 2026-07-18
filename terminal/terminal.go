@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"stell/tui/keys"
+	"github.com/stelmakhdigital/stell-tui/keys"
 )
 
 const (

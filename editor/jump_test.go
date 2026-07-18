@@ -3,7 +3,7 @@ package editor
 import (
 	"testing"
 
-	"stell/tui/keys"
+	"github.com/stelmakhdigital/stell-tui/keys"
 )
 
 func TestEditorJumpForward(t *testing.T) {

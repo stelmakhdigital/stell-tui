@@ -1,4 +1,4 @@
-// Простое демо чата на stell/tui (standalone Start/Stop).
+// Простое демо чата на github.com/stelmakhdigital/stell-tui (standalone Start/Stop).
 //
 //	go run ./examples/chat_simple
 package main
@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"stell/tui"
+	"github.com/stelmakhdigital/stell-tui"
 )
 
 func main() {

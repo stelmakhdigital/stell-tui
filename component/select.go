@@ -2,7 +2,7 @@ package component
 
 import (
 	"fmt"
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // SelectList — вертикальный список с фильтрацией и выбором.

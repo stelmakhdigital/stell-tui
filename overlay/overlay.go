@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // OverlayAnchor задаёт размещение оверлея в терминале.

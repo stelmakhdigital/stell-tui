@@ -1,7 +1,7 @@
 package editor
 
 import (
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // Completer возвращает варианты автодополнения для запроса.

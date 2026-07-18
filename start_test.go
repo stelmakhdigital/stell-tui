@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"stell/tui"
+	"github.com/stelmakhdigital/stell-tui"
 )
 
 // fakeTerminal — in-memory Terminal для интеграционного теста хоста.

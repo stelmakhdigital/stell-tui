@@ -1,4 +1,4 @@
-# stell/tui
+# github.com/stelmakhdigital/stell-tui
 
 Фреймворк терминального UI с дифференциальным рендерингом.
 
@@ -26,14 +26,14 @@
 | `wrap/` | ширина / ANSI / fuzzy |
 | `examples/` | демо |
 
-Внешний код импортирует только `stell/tui` (не подпакеты).
+Внешний код импортирует только `github.com/stelmakhdigital/stell-tui` (не подпакеты).
 
 ## Standalone
 
 ```go
 package main
 
-import "stell/tui"
+import "github.com/stelmakhdigital/stell-tui"
 
 func main() {
 	term := tui.NewProcessTerminal(nil, nil)
@@ -65,7 +65,7 @@ go run ./examples/chat_simple
 
 ## Hosted (встраивание)
 
-Для приложений со своим циклом (например `stell/coding-agent`):
+Для приложений со своим циклом (например `github.com/stelmakhdigital/stell-coding`):
 
 ```go
 ui := tui.New(os.Stdout, true)

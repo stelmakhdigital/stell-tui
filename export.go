@@ -1,16 +1,16 @@
 package tui
 
 import (
-	"stell/tui/component"
-	"stell/tui/diff"
-	"stell/tui/editor"
-	"stell/tui/keys"
-	"stell/tui/overlay"
-	"stell/tui/terminal"
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/component"
+	"github.com/stelmakhdigital/stell-tui/diff"
+	"github.com/stelmakhdigital/stell-tui/editor"
+	"github.com/stelmakhdigital/stell-tui/keys"
+	"github.com/stelmakhdigital/stell-tui/overlay"
+	"github.com/stelmakhdigital/stell-tui/terminal"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
-// Реэкспорт типов и конструкторов подпакетов — единый импорт stell/tui.
+// Реэкспорт типов и конструкторов подпакетов — единый импорт github.com/stelmakhdigital/stell-tui.
 
 type (
 	Component            = component.Component

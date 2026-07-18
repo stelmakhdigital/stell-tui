@@ -2,7 +2,7 @@ package component
 
 import (
 	"strings"
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // Box оборачивает дочерний компонент рамкой с заголовком.

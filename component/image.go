@@ -1,9 +1,9 @@
 package component
 
 import (
-	"stell/tui/terminal"
+	"github.com/stelmakhdigital/stell-tui/terminal"
 	"strings"
-	"stell/tui/wrap"
+	"github.com/stelmakhdigital/stell-tui/wrap"
 )
 
 // Image — плейсхолдер/инлайн-изображение (Kitty/iTerm при поддержке терминала).

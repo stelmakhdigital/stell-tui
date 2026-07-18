@@ -1,8 +1,8 @@
 package tui
 
 import (
-	"stell/tui/component"
-	"stell/tui/overlay"
+	"github.com/stelmakhdigital/stell-tui/component"
+	"github.com/stelmakhdigital/stell-tui/overlay"
 )
 
 // overlayEntry — один уровень стека оверлеев TUI.
